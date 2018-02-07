@@ -3,7 +3,7 @@
 ## Overview
 A simple To-do web app created in React.
 
-Jean's excellent ES6 to React.js workshop that can be found here `jadekler/git-js-workshop`.
+Jean's excellent ES6 to React.js workshop can be found here `jadekler/git-js-workshop`.
 
 Created to get a basic grasp of React/Redux. 
 
